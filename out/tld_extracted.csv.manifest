@@ -1,0 +1,1 @@
+{"source": "tld_extracted.csv", "destination": "in.c-ias.tld_extracted", "columns": ["pk", "dateReceived", "hitHour", "timeReceived", "host", "tld"]}
